@@ -3,7 +3,7 @@
 - 🌱 I’m currently percieving my degree in B.E ELECTRONICS AND COMMUNICATION ENGINEERING 
 - 💞️ I’m looking for internship
 - 📫 How to reach me sdhivyaprakash81@gmail.com
-- ⚡ Fun fact: I am interested on
+- ⚡ Fun fact: I am interested on Front end also
 
 <!---
 Dhivya11122005/Dhivya11122005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
