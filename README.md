@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded and VLSI domain
 - 🌱 I’m currently percieving my degree in B.E ELECTRONICS AND COMMUNICATION ENGINEERING 
 - 💞️ I’m looking for internship
-- 📫 How to reach me sdhivyaprakash814@gmail.com
+- 📫 How to reach me sdhivyaprakash81@gmail.com
 - ⚡ Fun fact: I am interested on
 
 <!---
